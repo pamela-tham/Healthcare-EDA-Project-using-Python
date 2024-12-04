@@ -18,22 +18,6 @@ The objective of this project is to:
 
 The dataset used in this analysis is a **synthetic healthcare dataset** that simulates real-world healthcare data for patients admitted to various hospitals. The dataset contains **fictional records** of patients, including details like **personal information, medical conditions, treatments, admission dates, billing amounts**, etc.
 
-### Dataset Features:
-- **Patient ID**: Unique identifier for each patient.
-- **Patient Name**: Name of the patient.
-- **Age**: Patient's age.
-- **Gender**: Patient's gender.
-- **Admission Type**: Type of admission (e.g., urgent, elective).
-- **Hospital Name**: Name of the hospital.
-- **Health Condition**: The patient's primary health condition (e.g., diabetes, hypertension).
-- **Length of Stay (LOS)**: Number of days the patient stayed in the hospital.
-- **Billing Amount**: Total amount billed for treatment.
-- **Insurance Provider**: Insurance provider covering the treatment.
-- **Medication**: List of medications given to the patient.
-- **Test Results**: Test results relevant to the patient’s condition.
-- **Admission Date**: The date of patient admission.
-- **Discharge Date**: The date of patient discharge.
-- **Blood Group**: Patient’s blood group.
 
 ## 🔑 Key Features
 
